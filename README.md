@@ -1,1 +1,1 @@
-MakeMyTrip-Data-Scientist-Hiring-Challenge Organized by MakeMyTrip. I scored 86/100. First i analyzed my data and wrote a code that compares between differnet models with differnet features and finally selects best features and best model. for this dataset Logistic Regression worked well with some features.
+
